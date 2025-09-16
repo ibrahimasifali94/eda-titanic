@@ -5,8 +5,8 @@ Quick exploratory analysis of the Titanic dataset using pandas, seaborn, and mat
 
 ## How to run
 Open the notebook in Colab:  
-[[here](https://colab.research.google.com/drive/1Zj60SViSlnD44gKogGzn41gpVnEFqmdN#scrollTo=eofAcVvfQP_w)]
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahimasifali94/eda-titanic/blob/main/eda_titanic.ipynb)
 
 ## Results
 - Females survived at a much higher rate than males.
